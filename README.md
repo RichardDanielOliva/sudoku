@@ -5,7 +5,6 @@ Descripción y contexto
 Guía de usuario
  1.  Para jugar:
     1.1 Ejecutar el ProgramaSodoku.java.
-    
     1.2. Selecciona la dificultad. (esta viene dada por el numero de casillas que seran dadas al inicializar el tablero).
     1.3 A jugar!:
       1.3.1 Selecciona el número que quieres introducir. Entre el 1-9 
