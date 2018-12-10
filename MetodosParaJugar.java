@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.InputMismatchException;
 public class MetodosParaJugar{
-	protected static TableroSudokuJugar juego1;
+	public static TableroSudokuJugar juego1;
 	private static final int DIF_DEFECTO = 17;
 	private static final int DIF_EXPERTO = 23;
 	private static final int DIF_DIFICIL = 30;

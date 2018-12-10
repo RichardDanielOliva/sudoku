@@ -1,5 +1,5 @@
 public class TableroSudokuJugar extends TableroSudokuBase implements ReglasTableroJugar{
-	int [][] tableroParaJugar;
+	public int [][] tableroParaJugar;
 	public int tamanoSudoku = 9;
 	private final int DIF_DEFECTO = 17;
 
