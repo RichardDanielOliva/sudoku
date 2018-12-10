@@ -5,6 +5,7 @@ Descripción y contexto
 Guía de usuario
  1.  Para jugar:
     1.1 Ejecutar el ProgramaSodoku.java.
+    
     1.2. Selecciona la dificultad. (esta viene dada por el numero de casillas que seran dadas al inicializar el tablero).
     1.3 A jugar!:
       1.3.1 Selecciona el número que quieres introducir. Entre el 1-9 
@@ -20,15 +21,19 @@ Guía de usuario
     2.3 verificamos el resultado ejecutando mostrarTableroSudokuBase().
     
 Guía de instalación
+
   Solo necesitamos el Java Development Kit y listo, a jugar! Para su descarga libre desde la web de Oracle (version 8u191): https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
 
 Autor/es
+
 Richard Daniel Oliva Denis. Correo: danielolivadenis@gmail.com
 
 Cómo contribuir
+
 Esta sección explica a desarrolladores cuáles son las maneras habituales de enviar una solicitud de adhesión de nuevo código (“pull requests”), cómo declarar fallos en la herramienta y qué guías de estilo se deben usar al escribir más líneas de código. También puedes hacer un listado de puntos que se pueden mejorar de tu código para crear ideas de mejora.
 
 Código de conducta
+
 El código de conducta establece las normas sociales, reglas y responsabilidades que los individuos y organizaciones deben seguir al interactuar de alguna manera con la herramienta digital o su comunidad. Es una buena práctica para crear un ambiente de respeto e inclusión en las contribuciones al proyecto.
 
 La plataforma Github premia y ayuda a los repositorios dispongan de este archivo. Al crear CODE_OF_CONDUCT.md puedes empezar desde una plantilla sugerida por ellos. Puedes leer más sobre cómo crear un archivo de Código de Conducta (aquí)[https://help.github.com/articles/adding-a-code-of-conduct-to-your-project/]
