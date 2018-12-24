@@ -12,17 +12,16 @@ Solo necesitamos el Java Development Kit y listo, a jugar! Para su descarga libr
 2. Selecciona la dificultad. (esta viene dada por el numero de casillas que seran dadas al inicializar el tablero).
 3. A jugar!: 
 	- Selecciona el número que quieres introducir. Entre el 1-9
-	- Selecciona una coordenada. Primero la fila, una letra entre la A-I, seguido del numero de la columna (entre 0-8). Ejemplos: A0, I8.
+	- Selecciona una coordenada: Primero la fila (una letra entre la A-I) seguido del numero de la columna (entre 0-8).
     	- Para terminar: El Juego termina automaticamente al completar todas las casilla. 	
       	- Para rendirse: selecciona 0 al momento de introducir de introducir un número.
 
 #### Para resolver cualquier Sudoku: 
-
-		1. Creamos un objeto del tipo ResolverSudoku.
-		2. Debemos pasarle como parametro una matriz de enteros de tamaño 9x9. 
-			- Si queremos ver los datos introducidos ejecutamos mostrarTableroSudokuBase(). 
-		3. Ejecutamos el metodo resolver(). 
-		4. verificamos el resultado ejecutando mostrarTableroSudokuBase().
+1. Creamos un objeto del tipo ResolverSudoku.
+2. Debemos pasarle como parametro una matriz de enteros de tamaño 9x9. 
+	- Si queremos ver los datos introducidos ejecutamos mostrarTableroSudokuBase(). 
+3. Ejecutamos el metodo resolver(). 
+4. verificamos el resultado ejecutando mostrarTableroSudokuBase().
 
 ## Autor/es
 Richard Daniel Oliva Denis. danielolivadenis@gmail.com
