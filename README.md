@@ -1,6 +1,6 @@
 # Sudoku
 ## Descripción y contexto 
-Conjunto de funcionalidades que permiten jugar al Sudoku a través del terminal de un ordenador, mediante el ProgramaSudoku.java. Además,  permite resolver cualquier tipo de Sudoku utilizando la clase ResolverSudoku.java
+Conjunto de funcionalidades que permiten jugar al Sudoku a través del terminal de un ordenador mediante el ProgramaSudoku.java. Además,  permite resolver cualquier tipo de Sudoku utilizando la clase ResolverSudoku.java
 
 ## Guía de instalación
 Solo necesitamos el Java Development Kit y listo, a jugar! Para su descarga libre desde la web de Oracle (version 8u191): https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
