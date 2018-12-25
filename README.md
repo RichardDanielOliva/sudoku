@@ -31,8 +31,11 @@ Richard Daniel Oliva Denis. danielolivadenis@gmail.com
 ## Diagrama de flujo
 #### Para jugar: 
 
+<img src="/images/DFJugar.png" alt="DFJugar" width="400"/>
 
 #### Para resolver cualquier Sudoku: 
+
+<img src="/images/DFResolver.png" alt="DFResolver" width="400"/>
 
 ## Imagenes
 #### Seleccion de dificultad:
