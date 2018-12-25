@@ -14,6 +14,10 @@ public class MetodosParaJugar{
 	public static void inicializar(){
 		int nDificultad = seleccionDificultad();
 		auxProxima -= nDificultad;
+		setTablero(nDificultad);
+	}
+
+	public static void setTablero(int nDificultad){
 		juego1 = new TableroSudokuJugar(nDificultad);
 	}
 
