@@ -19,9 +19,11 @@ Solo necesitamos el Java Development Kit y listo, a jugar! Para su descarga libr
 3. A jugar!: 
 	- Selecciona el número que quieres introducir. Entre el 1-9
 	- Selecciona una coordenada: Primero la fila (una letra entre la A-I) seguido del numero de la columna (entre 0-8).
-	
-	<img src="/images/jugar.png" alt="jugar" width="400"/>
-	
+
+
+<img src="/images/jugar.png" alt="jugar" width="400"/>
+
+
     - Para terminar: El Juego termina automaticamente al completar todas las casilla. 	
     	- Para rendirse: selecciona 0 al momento de introducir un número.
 
