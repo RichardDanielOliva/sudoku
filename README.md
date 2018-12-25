@@ -9,20 +9,12 @@ Solo necesitamos el Java Development Kit y listo, a jugar! Para su descarga libr
 
 #### Para jugar: 
 1. Ejecutar el ProgramaSodoku.java. 
-
-<img src="/images/1.png" alt="ejecutarJava" width="400"/>
-
 2. Selecciona la dificultad. (esta viene dada por el numero de casillas visibles al inicializar el tablero).
-
-<img src="/images/dificultad.png" alt="seleccionDificutad" width="400"/>
-
 3. A jugar!: 
 	- Selecciona el número que quieres introducir. Entre el 1-9
 	- Selecciona una coordenada: Primero la fila (una letra entre la A-I) seguido del numero de la columna (entre 0-8).
 	- Para terminar: El Juego termina automaticamente al completar todas las casilla. 	
 		- Para rendirse: selecciona 0 al momento de introducir un número.
-
-<img src="/images/jugar.png" alt="jugar" width="400"/>
 
 #### Para resolver cualquier Sudoku: 
 1. Creamos un objeto del tipo ResolverSudoku.
@@ -33,3 +25,17 @@ Solo necesitamos el Java Development Kit y listo, a jugar! Para su descarga libr
 
 ## Autor/es
 Richard Daniel Oliva Denis. danielolivadenis@gmail.com
+
+## Imagenes
+#### Seleccion de dificultad:
+#### Experto:
+
+<img src="/images/experto.png" alt="seleccionDificutadExperto" width="400"/>
+
+#### Muy Facil:
+
+<img src="/images/muyFacil.png" alt="seleccionDificutadMuyFacil" width="400"/>
+
+#### Introducir valor y coordenadas:
+
+<img src="/images/jugar.png" alt="jugar" width="400"/>
