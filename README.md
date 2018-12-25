@@ -23,8 +23,16 @@ Solo necesitamos el Java Development Kit y listo, a jugar! Para su descarga libr
 3. Ejecutamos el metodo resolver(). 
 4. verificamos el resultado ejecutando mostrarTableroSudokuBase().
 
+Nota: puedes visualizar un ejemplo ejecutando ProgramaSudokuResolver.java
+
 ## Autor/es
 Richard Daniel Oliva Denis. danielolivadenis@gmail.com
+
+## Diagrama de flujo
+#### Para jugar: 
+
+
+#### Para resolver cualquier Sudoku: 
 
 ## Imagenes
 #### Seleccion de dificultad:
