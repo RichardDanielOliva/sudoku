@@ -9,6 +9,8 @@ Solo necesitamos el Java Development Kit y listo, a jugar! Para su descarga libr
 
 #### Para jugar: 
 1. Ejecutar el ProgramaSodoku.java. 
+![GitHub Logo](/images/1.png)
+
 2. Selecciona la dificultad. (esta viene dada por el numero de casillas visibles al inicializar el tablero).
 3. A jugar!: 
 	- Selecciona el número que quieres introducir. Entre el 1-9
