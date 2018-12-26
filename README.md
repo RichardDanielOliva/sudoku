@@ -48,6 +48,6 @@ Richard Daniel Oliva Denis. danielolivadenis@gmail.com
 
 <img src="/images/jugar.png" alt="jugar" width="400"/>
 
-#### Introducir valor y coordenadas:
+#### Resolver Sudoku:
 
 <img src="/images/resolverSudoku.png" alt="resolverSudoku" width="300"/>
