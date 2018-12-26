@@ -47,3 +47,7 @@ Richard Daniel Oliva Denis. danielolivadenis@gmail.com
 #### Introducir valor y coordenadas:
 
 <img src="/images/jugar.png" alt="jugar" width="400"/>
+
+#### Introducir valor y coordenadas:
+
+<img src="/resolverSudoku/jugar.png" alt="resolverSudoku" width="400"/>
