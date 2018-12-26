@@ -50,4 +50,4 @@ Richard Daniel Oliva Denis. danielolivadenis@gmail.com
 
 #### Resolver Sudoku:
 
-<img src="/images/resolverSudoku.png" alt="resolverSudoku" width="300"/>
+<img src="/images/resolverSudoku.png" alt="resolverSudoku" width="250"/>
