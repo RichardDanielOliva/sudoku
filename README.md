@@ -50,4 +50,4 @@ Richard Daniel Oliva Denis. danielolivadenis@gmail.com
 
 #### Introducir valor y coordenadas:
 
-<img src="/images/resolverSudoku.png" alt="resolverSudoku" width="400"/>
+<img src="/images/resolverSudoku.png" alt="resolverSudoku" width="300"/>
